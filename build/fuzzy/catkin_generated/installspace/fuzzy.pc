@@ -1,0 +1,8 @@
+prefix=/home/jackie/my_project/fuzzy_oa/install
+
+Name: fuzzy
+Description: Description of fuzzy
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

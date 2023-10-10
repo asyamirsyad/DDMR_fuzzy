@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+
+<launch>
+    <node name="fuzzy_oa_node" pkg="fuzzy" type="index_exec"/>
+</launch>

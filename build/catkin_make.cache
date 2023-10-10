@@ -1,0 +1,2 @@
+fuzzy
+-DCATKIN_DEVEL_PREFIX=/home/jackie/my_project/fuzzy_oa/devel -DCMAKE_INSTALL_PREFIX=/home/jackie/my_project/fuzzy_oa/install -G Unix Makefiles
